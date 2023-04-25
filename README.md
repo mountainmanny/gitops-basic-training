@@ -1,0 +1,2 @@
+# gitops-basic-training
+training
